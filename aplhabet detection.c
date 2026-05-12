@@ -3,7 +3,7 @@
 
 int main()
 {
-  //constant or vowel detection 
+  //constant or vowel detection using if and switch conditions
   char ch;
   int count;
   count=0;
