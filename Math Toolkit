@@ -36,6 +36,7 @@ int main()
           printf("please enter valid menu option");
           break;
         }
+  return 0;
 }
 
 void sum()
